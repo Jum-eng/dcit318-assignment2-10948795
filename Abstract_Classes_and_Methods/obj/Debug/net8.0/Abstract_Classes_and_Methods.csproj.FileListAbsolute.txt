@@ -1,0 +1,14 @@
+C:\Users\Jumah Musah\source\repos\Abstract_Classes_and_Methods\Abstract_Classes_and_Methods\bin\Debug\net8.0\Abstract_Classes_and_Methods.exe
+C:\Users\Jumah Musah\source\repos\Abstract_Classes_and_Methods\Abstract_Classes_and_Methods\bin\Debug\net8.0\Abstract_Classes_and_Methods.deps.json
+C:\Users\Jumah Musah\source\repos\Abstract_Classes_and_Methods\Abstract_Classes_and_Methods\bin\Debug\net8.0\Abstract_Classes_and_Methods.runtimeconfig.json
+C:\Users\Jumah Musah\source\repos\Abstract_Classes_and_Methods\Abstract_Classes_and_Methods\bin\Debug\net8.0\Abstract_Classes_and_Methods.dll
+C:\Users\Jumah Musah\source\repos\Abstract_Classes_and_Methods\Abstract_Classes_and_Methods\bin\Debug\net8.0\Abstract_Classes_and_Methods.pdb
+C:\Users\Jumah Musah\source\repos\Abstract_Classes_and_Methods\Abstract_Classes_and_Methods\obj\Debug\net8.0\Abstract_Classes_and_Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jumah Musah\source\repos\Abstract_Classes_and_Methods\Abstract_Classes_and_Methods\obj\Debug\net8.0\Abstract_Classes_and_Methods.AssemblyInfoInputs.cache
+C:\Users\Jumah Musah\source\repos\Abstract_Classes_and_Methods\Abstract_Classes_and_Methods\obj\Debug\net8.0\Abstract_Classes_and_Methods.AssemblyInfo.cs
+C:\Users\Jumah Musah\source\repos\Abstract_Classes_and_Methods\Abstract_Classes_and_Methods\obj\Debug\net8.0\Abstract_Classes_and_Methods.csproj.CoreCompileInputs.cache
+C:\Users\Jumah Musah\source\repos\Abstract_Classes_and_Methods\Abstract_Classes_and_Methods\obj\Debug\net8.0\Abstract_Classes_and_Methods.dll
+C:\Users\Jumah Musah\source\repos\Abstract_Classes_and_Methods\Abstract_Classes_and_Methods\obj\Debug\net8.0\refint\Abstract_Classes_and_Methods.dll
+C:\Users\Jumah Musah\source\repos\Abstract_Classes_and_Methods\Abstract_Classes_and_Methods\obj\Debug\net8.0\Abstract_Classes_and_Methods.pdb
+C:\Users\Jumah Musah\source\repos\Abstract_Classes_and_Methods\Abstract_Classes_and_Methods\obj\Debug\net8.0\Abstract_Classes_and_Methods.genruntimeconfig.cache
+C:\Users\Jumah Musah\source\repos\Abstract_Classes_and_Methods\Abstract_Classes_and_Methods\obj\Debug\net8.0\ref\Abstract_Classes_and_Methods.dll
